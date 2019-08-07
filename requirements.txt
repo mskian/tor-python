@@ -1,5 +1,4 @@
 requests==2.22.0
-beautifulsoup4==4.7.1
+beautifulsoup4==4.8.0
 PySocks==1.7.0
-halo==0.0.23
-cloudscraper==1.1.11
+halo==0.0.26
